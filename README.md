@@ -8,7 +8,7 @@ Built to reflect real-world population health program requirements, using fully 
 
 ## What This Project Demonstrates
 
-Care management programs require structured assessments at defined intervals to ensure patients receive timely, coordinated care. Tracking *whether* those assessments happen — and *when* — is a core compliance function for any population health analytics team.
+Care management programs require structured assessments at defined intervals to ensure patients receive timely, coordinated care. Tracking whether or not and when those assessments happen is a core compliance function for analytics teams working with care management data.
 
 This project walks through the full analytics lifecycle for that problem:
 
